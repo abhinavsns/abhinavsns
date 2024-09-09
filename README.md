@@ -5,7 +5,7 @@ I love tackling complex problems and building innovative solutions.
 
 ## 🔭 What I'm Working On
 
-- [OpenFPM]([http://openfpm.mpi-cbg.de/](https://mosaic-group.github.io/openfpm-website/): OpenFPM: A scalable open framework for particle and particle-mesh codes on parallel computers
+- [OpenFPM](https://mosaic-group.github.io/openfpm-website/): OpenFPM: A scalable open framework for particle and particle-mesh codes on parallel computers
 - [TopoSPAM](http://topospam.org/): Topological Simulation Platform for Active Matter
 - [Open Source Contributions](https://github.com/abhinavsns?tab=repositories): Homebrew, OpenFPM, Paraview, VTK.
 
